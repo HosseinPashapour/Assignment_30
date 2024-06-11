@@ -34,7 +34,7 @@ Execute this command in terminal:
 python Big-Eyes-Lips-Filter.py
 ```
 ## Results
-![output](output\My_Pic.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_30/blob/main/output/My_Pic.jpg)
 
 
 # 3. Filter Lips & Eyes
@@ -52,7 +52,7 @@ Execute this command in terminal:
 python Filter_Lips_Eyes.py
 ```
 ## Results
-![output](output\Fruit_Result.jpg)
+![output]([output\Fruit_Result.jpg](https://github.com/HosseinPashapour/Assignment_30/blob/main/output/Fruit_Result.jpg))
 
 
 # 4. Rotate Image
@@ -70,4 +70,4 @@ Execute this command in terminal:
 python Rotate_Image.py
 ```
 ## Results
-![output](output\Rotate_Image.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_30/blob/main/output/Rotate_Image.jpg)

@@ -52,7 +52,7 @@ Execute this command in terminal:
 python Filter_Lips_Eyes.py
 ```
 ## Results
-![output]([output\Fruit_Result.jpg](https://github.com/HosseinPashapour/Assignment_30/blob/main/output/Fruit_Result.jpg))
+![output](https://github.com/HosseinPashapour/Assignment_30/blob/main/output/Fruit_Result.jpg)
 
 
 # 4. Rotate Image

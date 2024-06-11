@@ -16,7 +16,7 @@ Execute this command in terminal:
 python Align_Face.py
 ```
 ## Results
-![output](output\MR_Bean.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_30/blob/main/output/MR_Bean.jpg)
 
 
 # 2. Big Eyes & Lips Filter 💋

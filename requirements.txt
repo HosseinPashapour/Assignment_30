@@ -1,0 +1,5 @@
+tensorflow >= 2.3
+opencv-python
+numpy
+matplotlib
+mtcnn
